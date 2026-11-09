@@ -1,0 +1,6 @@
+{
+  "name": "Research Architect AI",
+  "description": "Transform academic CS research papers into clear architectural flowcharts, reproducibility blueprints, and high-impact student projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
